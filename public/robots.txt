@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /secure-admin-panel/
+Disallow: /api/admin/
+Allow: /
+
+Sitemap: https://tunaportlink.com/sitemap.xml
